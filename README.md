@@ -1,2 +1,2 @@
 # project-roomed-web
-Open-Source Multi-Chatroom
+Open-Source Multi-Chatroom Web App
